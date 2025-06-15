@@ -22,7 +22,7 @@ ON PT1.personal_id = DT3.ticket_id
 JOIN Titanik..Cabine_info CI4
 ON PT1.ticket = CI4.ticket
 ```
-![1231233333](https://github.com/MatthewBluebird/TitanicProject-MSSQL-PowerBi/assets/160137989/e400158a-60ab-46d3-b362-38d54a432935)
+![1231233333](https://github.com/remunaration/TitanicProject-MSSQL-PowerBi/assets/160137989/e400158a-60ab-46d3-b362-38d54a432935)
 
  
 Let`s start with the analysis of the percentage of those who survived.
